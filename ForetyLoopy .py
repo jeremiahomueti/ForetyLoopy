@@ -60,6 +60,7 @@ for cream in ice_cream_dict.values():
 
 
 for cream in ice_cream_dict.items():
+    
     print(cream)
 
 
