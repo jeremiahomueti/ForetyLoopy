@@ -68,6 +68,7 @@ for cream in ice_cream_dict.items():
 
 
 for cream, juicy in ice_cream_dict.items():
+    
     print(cream, "-->", juicy)
 
 
