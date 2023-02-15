@@ -45,6 +45,7 @@ for numbers in integers:
 
 ice_cream_dict = {'name': 'Alex Freberg', 'weekly intake': 5, 'favorite ice creams': ['MCC', 'Chocolate']}
 
+
 print(ice_cream_dict)
 
 
