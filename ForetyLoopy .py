@@ -37,6 +37,7 @@ for number in integers:
 integers = [1,2,3,4,5]
 
 for numbers in integers:
+    
     print(numbers + numbers)
 
 
