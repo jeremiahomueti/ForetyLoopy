@@ -54,6 +54,7 @@ print(ice_cream_dict)
 
 
 for cream in ice_cream_dict.values():
+    
     print(cream)
 
 
