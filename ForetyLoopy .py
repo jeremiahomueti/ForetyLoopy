@@ -48,6 +48,7 @@ for numbers in integers:
 # In[23]:
 
 
+
 ice_cream_dict = {'name': 'Alex Freberg', 'weekly intake': 5, 'favorite ice creams': ['MCC', 'Chocolate']}
 
 
